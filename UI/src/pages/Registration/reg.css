@@ -1,0 +1,33 @@
+.disp{
+    width: 80%;
+    margin:auto;
+}
+
+.back1{
+    margin-top: 5%;
+    background-color: rgb(1, 49, 97);
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 450px;
+}
+   
+.signup-page{
+    margin-top: 120px;
+}
+.btn1{
+    margin-bottom: 4%;
+    margin-top: 4%;
+    margin-left: 0%;
+    width: 100%;
+}
+
+.name{
+    margin-top: 4%;
+    text-align: center;
+    color: white;
+}
+
+.color{
+    color: white;
+}

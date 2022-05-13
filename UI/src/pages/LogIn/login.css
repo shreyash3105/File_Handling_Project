@@ -1,0 +1,67 @@
+.disp{
+    width: 80%;
+    margin:auto;
+}
+
+.disp3{
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.signin-page{
+    margin-top: 180px;
+}
+
+.edit-category-page{
+    margin-top: 180px;
+}
+
+.save-category-page{
+    margin-top: 180px;
+}
+
+.editproduct-page{
+    margin-top: 106px;
+}
+.forgotpw-page{
+    margin-top: 180px;
+}
+
+.editbrands-page{
+    margin-top: 180px;
+}
+
+.savebrands-page{
+    margin-top: 180px;
+}
+
+.back{
+    margin-top: 10%;
+    background-color: rgb(1, 49, 97);
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 350px;
+}
+
+.back6{
+    margin-top: 10%;
+    background-color: rgb(33,37,41);
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 270px;
+}
+
+.btn1{
+    margin-bottom: 4%;
+    margin-top: 4%;
+    margin-left: 0%;
+    width: 100%;
+}
+
+.name{
+    margin-top: 4%;
+    text-align: center;
+    color: white;
+}
