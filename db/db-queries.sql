@@ -1,6 +1,6 @@
-CREATE SCHEMA `test`;
+CREATE SCHEMA `file-handler-db`;
 
-USE `test`;
+USE `file-handler-db`;
 
 CREATE TABLE `user` (
   `user_id` int(11) NOT NULL AUTO_INCREMENT,
